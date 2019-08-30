@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Acheter du lait",
+      "done": "true"
+    },
+    {
+      "id": 2,
+      "taskName": "Partir en vacances",
+      "done": "true"
+    },
+    {
+      "taskName": "faire un site web",
+      "id": 3
+    },
+    {
+      "taskName": "boire du café",
+      "id": 4
+    },
+    {
+      "taskName": "Partir en vacances maintenant",
+      "done": "false",
+      "id": 5
+    },
+    {
+      "taskName": "acheter 122345678",
+      "id": 6
+    },
+    {
+      "taskName": "boire du café ou tea",
+      "done": "false",
+      "id": 7
+    },
+    {
+      "taskName": "sfsf",
+      "done": "false",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "pass": "123"
+    }
+  ]
+}
